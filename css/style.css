@@ -20,11 +20,12 @@
 }
 
 .link-panel {
-    color: #1F1B1B;
+    background-color: #ff5300;
+    color: #eeeeed;
 }
 
 .link-panel:hover {
-    background-color: #ff5300;
+    background-color: #ff5500c2;
     color: #eeeeed;
     border-color: #eeeeed;
 }
