@@ -1,0 +1,30 @@
+.nav-menu {
+    background-color: #0054a9;
+    border: 0;
+    border-radius: 0;
+}
+
+.navbar-default .navbar-brand {
+    color: #FFFFFF;
+    font-size: 20px;
+}
+
+.navbar-default .navbar-brand:hover {
+    color: #eeeeed;
+}
+
+#icone-panel {
+    font-size: 65px;
+    color: #1F1B1B;
+    text-align: center;
+}
+
+.link-panel {
+    color: #1F1B1B;
+}
+
+.link-panel:hover {
+    background-color: #ff5300;
+    color: #eeeeed;
+    border-color: #eeeeed;
+}
